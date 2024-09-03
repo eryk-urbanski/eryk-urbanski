@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Eryk
+Systematic learner 🔭 who tries to study and understand difficult issues thoroughly.
 
-<!--
-**eryk-urbanski/eryk-urbanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- **Programming Languages:** Python, C++/C, MATLAB, Kotlin
+- **Operating Systems:** Linux, Windows
+- **Audio:** DSP Algorithms, Machine Learning for Audio, JUCE Framework
 
-Here are some ideas to get you started:
+## 🎓 Education
+Currently pursuing a Bachelor of Science degree in Electronics and Telecommunications at Gdansk University of Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/eryk-urbanski)!
+

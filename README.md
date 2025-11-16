@@ -2,9 +2,9 @@
 Systematic learner 🔭 who tries to study and understand difficult issues thoroughly.
 
 ## 🚀 Skills
-- **Programming Languages:** Python, C++/C, MATLAB, Kotlin
+- **Programming Languages:** Python, R, C++/C, MATLAB, Kotlin
 - **Operating Systems:** Windows, Linux
-- **Audio:** DSP Algorithms, Machine Learning for Audio, JUCE Framework, PureData
+- **Audio:** DSP Algorithms, Machine Learning and Deep Learning for Audio, Data Science and Time Series Analysis
 
 ## 🎓 Education
 - Currently pursuing a Master of Engineering degree in Biomedical Engineering, specializing in Artificial Intelligence, at Gdańsk University of Technology.
